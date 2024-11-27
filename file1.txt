@@ -1,3 +1,4 @@
 Welcome to Git
 Git documents
 Git commands
+Tried git merge
