@@ -3,3 +3,4 @@ Git documents
 Git commands
 Tried git merge
 Tried git fetch
+git branch command
